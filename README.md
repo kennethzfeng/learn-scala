@@ -1,0 +1,4 @@
+learn-scala
+===========
+
+Scala Notes
