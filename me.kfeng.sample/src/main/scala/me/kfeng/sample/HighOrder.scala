@@ -1,3 +1,5 @@
+package me.kfeng.sample
+
 object HighOrder {
     def printFunc(element: String) {
         println(element)

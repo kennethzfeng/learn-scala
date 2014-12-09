@@ -1,6 +1,7 @@
-import java.util.{Date, Locale}
-import java.text.DateFormat
+package me.kfeng.sample
+
 import java.text.DateFormat._
+import java.util.{Date, Locale}
 
 
 object FrenchDate {
